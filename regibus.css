@@ -43,15 +43,13 @@ a {
     color: #9E2792;
 }
 
-#king1 {
-    
-}
-
 .wolf {
     margin-top: 165px;
 }
 
-.icheke {
+.icheke, .isong, .odin, .silva {
     border: 2px solid black;
     text-align: center;
+    display: inline-block
 }
+
