@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-div {
+    text-align: center;
+    background-color: #9E2792;
+    height: 180px;
+}
+
+#crown {
+    width: 45px;
+    height: 45px;
+    margin-bottom: -20px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#regibus {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 72px;
+    font-weight: normal;
+}
+
+#motto {
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.main-container {
+    /*display: flex;
+    flex-direction: row;*/
+    display: inline-block;
+}
+
+a {
+    color: #9E2792;
+}
+
+#king1 {
+    
+}
+
+.wolf {
+    margin-top: 165px;
+}
+
+.icheke {
+    border: 2px solid black;
+    text-align: center;
+}
